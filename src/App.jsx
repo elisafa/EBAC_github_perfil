@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <h1 className="h1Usuario">Digite o nome do usuário do Github: </h1>
       <input
         className="inputUsuario"
         type="text"

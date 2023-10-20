@@ -15,7 +15,10 @@
   --corPrincipal: #424242;
   --corSecundaria: #d8d3d3;
 }
-
+.h1Usuario {
+  padding: 20px;
+  text-align: center;
+}
 .inputUsuario {
   display: block;
   margin: 10px auto;
